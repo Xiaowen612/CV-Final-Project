@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+.pytest_cache/
+download_cache/
+*.log
+*.tar
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+.env
+.env.*
+!.env.example
+
+# Keep the data provenance record; distribute images separately.
+/data/*
+!/data/GenImage/
+/data/GenImage/*
+!/data/GenImage/download_provenance.json
+
+# Keep historical CSV/JSON/PNG reports and fixed manifests.
+/runs*/
+!/runs_pilot/
