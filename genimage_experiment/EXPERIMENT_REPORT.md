@@ -107,7 +107,8 @@
 ## 10. 文件与来源
 
 - runs_pilot/report/：全部指标、三 seed 汇总、鲁棒性曲线、ROC/混淆矩阵、训练曲线与失败案例。
-- runs_pilot/<method>/seed_<N>/：best.pt、逐图预测、历史、环境与配置；导出包不含大型 best.pt，权重保留在服务器。
+- runs_pilot/<method>/seed_<N>/：best.pt、逐图预测、历史、环境与配置；GitHub 仓库不包含大型 best.pt，需由维护者通过单独的模型附件提供。
 - manifests_pilot/：三个固定清单与 audit.json；logs/：逐方法训练/测试日志。
 - 官方数据与代码来源：[GenImage](https://github.com/GenImage-Dataset/GenImage)、[Effort](https://github.com/YZY-stack/Effort-AIGI-Detection)、[CNNDetection](https://github.com/PeterWang512/CNNDetection)。
 - 服务器项目：/home/smbu/lxw/genimage_experiment/。
+
