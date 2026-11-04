@@ -1,0 +1,105 @@
+{
+  "method": "deit_small",
+  "seed": 44,
+  "device": "cuda",
+  "platform": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "versions": {
+    "torch": "2.9.0+cu128",
+    "torchvision": "0.24.0+cu128",
+    "transformers": "4.51.3",
+    "timm": "1.0.15",
+    "numpy": "1.26.4",
+    "Pillow": "12.0.0",
+    "scikit-learn": "1.9.1"
+  },
+  "config": {
+    "data_root": "data/GenImage",
+    "manifest_dir": "manifests_pilot",
+    "run_dir": "runs_pilot",
+    "generators": {
+      "sd14": "Stable Diffusion V1.4",
+      "biggan": "BigGAN",
+      "adm": "ADM",
+      "glide": "GLIDE"
+    },
+    "seen": [
+      "sd14",
+      "biggan"
+    ],
+    "unseen": [
+      "adm",
+      "glide"
+    ],
+    "split_seed": 2026,
+    "train_per_class": 128,
+    "dev_per_class": 32,
+    "test_per_class": 64,
+    "image_size": 224,
+    "resize_short": 256,
+    "clip_id": "/home/smbu/.cache/huggingface/hub/models--openai--clip-vit-large-patch14/snapshots/8d052a0f05efbaefbc9e8786ba291cfdf93e5bff",
+    "clip_revision": "main",
+    "residual_rank": 1,
+    "lambda_orth": 1.0,
+    "lambda_energy": 1.0,
+    "epochs": 3,
+    "batch_size": 8,
+    "accumulation_steps": 4,
+    "eval_batch_size": 16,
+    "workers": 2,
+    "lr": 0.0002,
+    "head_lr": 0.001,
+    "weight_decay": 0.0005,
+    "patience": 3,
+    "amp": true,
+    "gradient_checkpointing": true,
+    "device": "cuda",
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "methods": [
+      "clip_linear",
+      "effort",
+      "effort_aug",
+      "resnet50",
+      "deit_small",
+      "swin_tiny",
+      "cnnspot"
+    ],
+    "conditions": [
+      "clean",
+      "jpeg90",
+      "jpeg70",
+      "jpeg50",
+      "blur0.5",
+      "blur1",
+      "blur2",
+      "scale0.75",
+      "scale0.5",
+      "scale0.25"
+    ]
+  },
+  "manifest_hashes": {
+    "train": "a4df02816c9194caee620bf9838aca0abee60ea7a2707f3118b837626605b8fd",
+    "dev": "a97e38cad001270c0f0832bf488f2b9c4827d173c3da11408c45a85e1c3b5202",
+    "test": "549935366c76edec84b0d3f75a82245e2116a63dc9e647d373e4ac5b754c453a"
+  },
+  "trainable_parameters": 21666049,
+  "stored_parameters_and_buffers": 21666049,
+  "setup_seconds": 15.613792878109962,
+  "total_seconds": 20.07615782506764,
+  "peak_gpu_mb": 682.544921875,
+  "best_dev_auc": 0.950439453125,
+  "smoke_only": false,
+  "source_hashes": {
+    "experiment/__init__.py": "a05d859d073d6bceb16e56bd2cd2c3934b099de1b901d753b0e33fa65c796e58",
+    "experiment/data.py": "cb74b71bf03242e4f6fc8fa83eed44583c4b6e0eb26bc80f84ea6a4efb65f655",
+    "experiment/engine.py": "cf9939a926f78437b9762c3acaf3495b2d5b57301aa1d6cd6737284685d3f07e",
+    "experiment/inference.py": "7c80943c12bd437c47d33cb58df056a46bb0f957ff9700bafe79e06498ddf367",
+    "experiment/metrics.py": "d382e4017fc6232e41740c0096486dd9b6879a1d6736b4fd043562ca6e506560",
+    "experiment/models.py": "fd2b94429bf82369f361a7bae7f40f53d020a4f73cd26385d39ae94e6ff50afb",
+    "experiment/report.py": "eef59c3191cd188ac8e5053ac56356b8337bbbfc2e44bcdc80262a07d9d97635"
+  }
+}
