@@ -1,0 +1,129 @@
+path,label,generator,split,official_split,sha256,source_id,width,height
+Stable Diffusion V1.4/train/nature/n03761084_3310.JPEG,0,sd14,dev,train,87e072360663a52bb2eac20772a4864e070bec27be8c91ee15529f63fce23692,n03761084_3310,320,240
+Stable Diffusion V1.4/train/nature/n04118538_5396.JPEG,0,sd14,dev,train,4411638cb87b9e15a6a4ca5c48561f252454dd8d35020af9f901eefa83e7b03c,n04118538_5396,500,400
+Stable Diffusion V1.4/train/nature/n02177972_6642.JPEG,0,sd14,dev,train,afc0046be18b9e5257974c2ea26588ff20aa54154e61dc84521a3aa2f9defb96,n02177972_6642,500,353
+Stable Diffusion V1.4/train/nature/n02980441_14742.JPEG,0,sd14,dev,train,0fcfa61bf6137645aa20e39fad2f19f7b6ac1ff17d253f0c54ccf17aae713cee,n02980441_14742,375,500
+Stable Diffusion V1.4/train/nature/n02006656_3593.JPEG,0,sd14,dev,train,c204995d5d3d5bda0df37600525530e105ffa88833ed3010ad2d561ac525f712,n02006656_3593,500,334
+Stable Diffusion V1.4/train/nature/n02777292_11712.JPEG,0,sd14,dev,train,4a0aaa6b21be60774fdc3d375ffbf9732330d599712f5e57de0e623892bfee9b,n02777292_11712,584,329
+Stable Diffusion V1.4/train/nature/n03089624_12774.JPEG,0,sd14,dev,train,0051b30fc1513b0793f533ff34ba10b191047c5d0a04705dcdf5677b47fe126f,n03089624_12774,500,375
+Stable Diffusion V1.4/train/nature/n01443537_16780.JPEG,0,sd14,dev,train,18e0be0302a3fe8132dc20adebafdf6685198f7312d8c726595d06f345871527,n01443537_16780,500,375
+Stable Diffusion V1.4/train/nature/n01728920_22196.JPEG,0,sd14,dev,train,e563f7bb4a2f51228ae4f34dfa1a535499db57fe7f8e0a1fc3c13bb9bb0f470c,n01728920_22196,500,333
+Stable Diffusion V1.4/train/nature/n13040303_2258.JPEG,0,sd14,dev,train,3056fa9cd2743062e4b969b3030cdbd76be7c5fe4f60196f501b0d633117bcd2,n13040303_2258,500,400
+Stable Diffusion V1.4/train/nature/n07684084_2020.JPEG,0,sd14,dev,train,6ee7b441f595faa4008985527c46cce7ea3bfa84e6c0ddc6dac42d898c4ed122,n07684084_2020,500,375
+Stable Diffusion V1.4/train/nature/n04141076_36609.JPEG,0,sd14,dev,train,edd771103f3d7dc4be7526fd87f5e54a95278c6cd011c572c54ddcd11c83de2f,n04141076_36609,334,500
+Stable Diffusion V1.4/train/nature/n03838899_31104.JPEG,0,sd14,dev,train,0f1707d978adbcb11f7125f9cccb36557a2b1efddbeedd96999095ad67d35299,n03838899_31104,500,381
+Stable Diffusion V1.4/train/nature/n02086910_10734.JPEG,0,sd14,dev,train,109887946c11df66a1446e2c0daf6cd3033ab16ba7aa99c666aa4f32782251c3,n02086910_10734,500,343
+Stable Diffusion V1.4/train/nature/n04325704_5719.JPEG,0,sd14,dev,train,a494e6114f0858e009e6910090263ba336ef17e5aaa98cc22e9c395df96f01a6,n04325704_5719,375,500
+Stable Diffusion V1.4/train/nature/n03394916_36445.JPEG,0,sd14,dev,train,ccd9d70247e2800328118b2f69a9c65871c00d8d3a8c8f3973acd62203958f5b,n03394916_36445,320,240
+Stable Diffusion V1.4/train/nature/n02328150_1569.JPEG,0,sd14,dev,train,d731b65628712dfe889e87f9cea59a3ab999f37439d6649c53901e364a61323b,n02328150_1569,300,191
+Stable Diffusion V1.4/train/nature/n02951585_9571.JPEG,0,sd14,dev,train,9fab458d3ca0063257ed35dd82625b48fcb041724cc3baeca10af1a5c5da732c,n02951585_9571,255,191
+Stable Diffusion V1.4/train/nature/n02974003_1874.JPEG,0,sd14,dev,train,84f9d9e9ba959210b6a0e457dd9f50706c8fa84b28857041323627499126460a,n02974003_1874,230,140
+Stable Diffusion V1.4/train/nature/n03345487_28910.JPEG,0,sd14,dev,train,8aaa6ef55d0f637cb29a51f7e162025f1b642b641bb6a268182ee5ec2b74291e,n03345487_28910,333,500
+Stable Diffusion V1.4/train/nature/n02102318_1630.JPEG,0,sd14,dev,train,f8c6dae805685e1eec8e73348b732fe42143f6fd34145cdff9bd67584aad3deb,n02102318_1630,500,375
+Stable Diffusion V1.4/train/nature/n02279972_10661.JPEG,0,sd14,dev,train,2f07ffbdb1019a432c853144debc91a32c261a49cf9878d9a1e31ddd6dc4159c,n02279972_10661,500,375
+Stable Diffusion V1.4/train/nature/n03942813_3560.JPEG,0,sd14,dev,train,e06f4ec3ae9ea90f5640104bf628f7b03f90b8e98ca52d261509f0a1b61d6003,n03942813_3560,351,500
+Stable Diffusion V1.4/train/nature/n04591713_5430.JPEG,0,sd14,dev,train,e28a4ae79f084480178715aec505a9290570ebcac1571d1c64b952f6d00d8006,n04591713_5430,375,500
+Stable Diffusion V1.4/train/nature/n03179701_7694.JPEG,0,sd14,dev,train,512aeb007421f5550b0ac49949ba1aa52045fb277ff5a5104c55f3159991393d,n03179701_7694,420,607
+Stable Diffusion V1.4/train/nature/n07714990_2678.JPEG,0,sd14,dev,train,0f702d75e698a843ff7397d81ef90d4b4ea21bd707bbd867caf243a9277bfc4c,n07714990_2678,500,375
+Stable Diffusion V1.4/train/nature/n02492035_632.JPEG,0,sd14,dev,train,f0f6a2be1453279cccf4bdc671c172f2c56b776d41fcb3279c49b7d51322bf8c,n02492035_632,500,317
+Stable Diffusion V1.4/train/nature/n04311004_8075.JPEG,0,sd14,dev,train,65d4a51e06b3fa8c93fdffb1677c1fa9eae54e8ff2c50a1bd1b951eaa09347ae,n04311004_8075,500,332
+Stable Diffusion V1.4/train/nature/n03207743_18201.JPEG,0,sd14,dev,train,0719c1dcb30d3a04017ec90454bc2189644577fad8bd4e697d6c7a1d6184d4e5,n03207743_18201,500,375
+Stable Diffusion V1.4/train/nature/n02794156_13070.JPEG,0,sd14,dev,train,527abd8aff754f7a8f37da4231665df3a41d3890cbf7554714e795b0b34d1288,n02794156_13070,134,160
+Stable Diffusion V1.4/train/nature/n07920052_31714.JPEG,0,sd14,dev,train,e49af83c959fab67165a4ecf0c201a10cd3076d28673ed6cc325537ab23b61a6,n07920052_31714,333,500
+Stable Diffusion V1.4/train/nature/n04201297_11941.JPEG,0,sd14,dev,train,22b35c09b555f4b5b8c300efe741018c25acddf1f7eef54156f8e4458a670f1c,n04201297_11941,500,375
+Stable Diffusion V1.4/train/ai/574_sdv4_00126.png,1,sd14,dev,train,054056f4c035dcf5ac58fbac0dbd77b9ca03aa3c52de657b58191dc64ee13c7e,,512,512
+Stable Diffusion V1.4/train/ai/807_sdv4_00113.png,1,sd14,dev,train,4a3cf691618cfd2f6bd319815c541f54792d0b672e9f83adb417802e17ec6e2c,,512,512
+Stable Diffusion V1.4/train/ai/231_sdv4_00050.png,1,sd14,dev,train,7a8f275dcc4285dbf014a0c94b60eca88f16140655eacea0ffc342933a0c1b3f,,512,512
+Stable Diffusion V1.4/train/ai/860_sdv4_00077.png,1,sd14,dev,train,9b4551fd9475774ec2cbef1fa980ece98199dc9f31ea4731d92aa7819cf26425,,512,512
+Stable Diffusion V1.4/train/ai/181_sdv4_00184.png,1,sd14,dev,train,7ba14b25d33618e63d9685da649e1f04b3e1e0d86feb4657f3ac46778c615972,,512,512
+Stable Diffusion V1.4/train/ai/502_sdv4_00132.png,1,sd14,dev,train,a7eb1d5338daf3cd319bfb6acd77bc9517cc0d777afec326f363020e9581df85,,512,512
+Stable Diffusion V1.4/train/ai/015_sdv4_00010.png,1,sd14,dev,train,38dd42f1977a1a1dca4c684e2d7568cd9954dd0bbce235e68433b667c947dbbf,,512,512
+Stable Diffusion V1.4/train/ai/362_sdv4_00128.png,1,sd14,dev,train,d3a0df1c5cd3b6e28bb906bbe83190e0ad2eb9f9686243f3f8b51ef3af010242,,512,512
+Stable Diffusion V1.4/train/ai/413_sdv4_00146.png,1,sd14,dev,train,329f2ccfbc751b1d7ca4248173b0b3f92a243050af139470938c6cd56abda7b5,,512,512
+Stable Diffusion V1.4/train/ai/739_sdv4_00170.png,1,sd14,dev,train,0b3a8a1df1c8df87ac106bde3067b1bc7fa1c0add0952fdcb298f53fa3604332,,512,512
+Stable Diffusion V1.4/train/ai/057_sdv4_00001.png,1,sd14,dev,train,2b7331d791792ce0ede6456bbb7f146e5754a8ad4f1b773ea0b6b61d2d6f7cb4,,512,512
+Stable Diffusion V1.4/train/ai/514_sdv4_00165.png,1,sd14,dev,train,0d3d34440ae875c1ad6307ffc95c15ddad3385862f23b8b32ab52a45321aeeca,,512,512
+Stable Diffusion V1.4/train/ai/998_sdv4_00170.png,1,sd14,dev,train,766014b4a755f4ace0371d7dabf6120b43f1e16b3e749f8a467ef4b476f49a91,,512,512
+Stable Diffusion V1.4/train/ai/667_sdv4_00175.png,1,sd14,dev,train,1efd203fdadfcc2323090bbc6e58441dc0a6d520a9e5957d9a155cc45736037c,,512,512
+Stable Diffusion V1.4/train/ai/186_sdv4_00132.png,1,sd14,dev,train,1ad85405c64df4a9fcc47727ef489edbab1b89f4a4441d760e36f3c7db03ef5c,,512,512
+Stable Diffusion V1.4/train/ai/740_sdv4_00052.png,1,sd14,dev,train,f0fba5d60581f09e63fa2bf4d6b06c17a056eea1aaca46d6e84a61b4af07fdd7,,512,512
+Stable Diffusion V1.4/train/ai/468_sdv4_00085.png,1,sd14,dev,train,344492e84e3800de1d911c591a83e6f64048a4f755ce77ed07aa35a950a8b2d9,,512,512
+Stable Diffusion V1.4/train/ai/519_sdv4_00117.png,1,sd14,dev,train,97993e17f27cd279e878b88fcf46844007ef1e0c0e49c5e717c8fae23da5c466,,512,512
+Stable Diffusion V1.4/train/ai/961_sdv4_00091.png,1,sd14,dev,train,86683287118b4c429c13074f976bdc5bc40599c90f0447675fd09c74b7809987,,512,512
+Stable Diffusion V1.4/train/ai/932_sdv4_00067.png,1,sd14,dev,train,070732cc2e4535efcdd3c853eb3e73f3ab7d05c419a6a25a1ca1b5c77224031b,,512,512
+Stable Diffusion V1.4/train/ai/127_sdv4_00160.png,1,sd14,dev,train,1bd7fee53dec0942fd0da641f06bc2cea997f013006e2b32347585962c0734ab,,512,512
+Stable Diffusion V1.4/train/ai/940_sdv4_00064.png,1,sd14,dev,train,66147dbeecc6ffde6d85610e14afe0ae9ea3c15449282ef95c1b4c4e6a5ac789,,512,512
+Stable Diffusion V1.4/train/ai/685_sdv4_00113.png,1,sd14,dev,train,0ae06e326aff7a9221edd8028a71b23b7c6a97450346708f86a1ec41b5a7eba8,,512,512
+Stable Diffusion V1.4/train/ai/123_sdv4_00023.png,1,sd14,dev,train,094106d316789db45e1329922a15522b5e31d392973bae49897b0e84d61cd2b2,,512,512
+Stable Diffusion V1.4/train/ai/215_sdv4_00096.png,1,sd14,dev,train,f46b8d9882b81544d3a26fe1a7ffc9015c4cb34963400a164cd9f78f6897ee74,,512,512
+Stable Diffusion V1.4/train/ai/714_sdv4_00115.png,1,sd14,dev,train,0ca573b7a3c240f5c6b072cb391672ecbac2c30d66f1450ec581212b814cfffa,,512,512
+Stable Diffusion V1.4/train/ai/317_sdv4_00181.png,1,sd14,dev,train,fa6fa7b06df3548208e75def81cfbb510dca7adb3fe8d670af502ab76fa18479,,512,512
+Stable Diffusion V1.4/train/ai/717_sdv4_00115.png,1,sd14,dev,train,44d24d964bf473a6792980c534c93394635965525753388cd439ecdf1275835a,,512,512
+Stable Diffusion V1.4/train/ai/622_sdv4_00061.png,1,sd14,dev,train,70d491a606207b51bdfbe78d58a662cb2ddba1cde028f33e02b139d980007821,,512,512
+Stable Diffusion V1.4/train/ai/235_sdv4_00187.png,1,sd14,dev,train,c34f657e987b006090fdf4626af3d1690b1870876cfbbf6a335156ecaa4e19fa,,512,512
+Stable Diffusion V1.4/train/ai/343_sdv4_00061.png,1,sd14,dev,train,4adadc53967881baecd801efc1bb709e02a758c206a8e03372cb2cb7befd5352,,512,512
+Stable Diffusion V1.4/train/ai/635_sdv4_00086.png,1,sd14,dev,train,ce14212dc76f51b7c62a8ef367400736dde3d3eb6f094c70543cdef1aa0d3731,,512,512
+BigGAN/train/nature/n02096437_3710.JPEG,0,biggan,dev,train,421203f301961cc274bc78b9f0475ab43cb2ad456af7592b1253a64994a642dd,n02096437_3710,349,309
+BigGAN/train/nature/n10148035_17976.JPEG,0,biggan,dev,train,44c8a62b5588e248e05fe24a76e2dc390fb7e7d50320ff5ea85e60285fbf49e1,n10148035_17976,500,333
+BigGAN/train/nature/n02397096_1250.JPEG,0,biggan,dev,train,50a770a175e73c40c880eb56809cfabcdaf53dfa644b511e584c44c459b84acf,n02397096_1250,400,286
+BigGAN/train/nature/n03709823_17706.JPEG,0,biggan,dev,train,e41e2ed502d87cbcde96a460da4d8304b66df6ac1a5c19fb8c006c6aa2c60ff9,n03709823_17706,500,375
+BigGAN/train/nature/n07871810_3511.JPEG,0,biggan,dev,train,b62aeda1beb5909dbf9fcf82af9b6aa6597fac260245f4fe6aa7efa7f605b080,n07871810_3511,500,375
+BigGAN/train/nature/n03026506_5658.JPEG,0,biggan,dev,train,8c5d75ae35035a57d3effebaf766fbbabde94f1e66679398cec62ae24f1bf954,n03026506_5658,500,375
+BigGAN/train/nature/n04493381_31641.JPEG,0,biggan,dev,train,5fb94aac8ccb38de52710824e062956043c4b7db30bde2b5b0eed042f9b6c93e,n04493381_31641,500,313
+BigGAN/train/nature/n04486054_813.JPEG,0,biggan,dev,train,6b6c0e63746c6a9e186ba21a95f93205bccb78559101b2643fa330cb679934e6,n04486054_813,500,375
+BigGAN/train/nature/n02123159_3569.JPEG,0,biggan,dev,train,913f4566c21feed0c85fe03321c1f494002bdc4db64f46b0f91d3679529d7c3a,n02123159_3569,500,375
+BigGAN/train/nature/n03452741_10406.JPEG,0,biggan,dev,train,ee95e81678246743d5e3e47a407a605df6dcb62b6dc6f586e1cdd9bec75161f0,n03452741_10406,500,375
+BigGAN/train/nature/n06596364_10245.JPEG,0,biggan,dev,train,b0a9a758ab0f5a365edc53c33e4537f84e94411b51bf8946f8adabfefa1303a0,n06596364_10245,400,541
+BigGAN/train/nature/n02894605_10961.JPEG,0,biggan,dev,train,75968b9b9f00804824474fcac3c8e01fa19ca8a6ebe9d8732f32c73620f889f9,n02894605_10961,500,500
+BigGAN/train/nature/n03891332_4911.JPEG,0,biggan,dev,train,cc950ca3adabb1074537715de588635b994130d93ba3fbfef4907a81822ac3ac,n03891332_4911,375,500
+BigGAN/train/nature/n01914609_364.JPEG,0,biggan,dev,train,d8adcc418ae6832c8f5ea726b8fd6fbb23795d22e5bed68e51a6ca6745fd60ec,n01914609_364,500,493
+BigGAN/train/nature/n02093991_8909.JPEG,0,biggan,dev,train,69f953d6e1579ad370b90612c8b3e06099d40d08e393cf3e82fb4d922a09e802,n02093991_8909,500,333
+BigGAN/train/nature/n07714571_8244.JPEG,0,biggan,dev,train,eaf964fa8a1747cb06f3325e727abc3a4e054c41dfeded334d0a4f929a0488af,n07714571_8244,500,375
+BigGAN/train/nature/n03393912_5572.JPEG,0,biggan,dev,train,d9f4ade72c90e990732088bbe9c4006475177e9dfd0b435907408c66f358d62c,n03393912_5572,500,375
+BigGAN/train/nature/n02056570_776.JPEG,0,biggan,dev,train,04d61b3e0332d6bfe53d2259715d2b6001d1c8b87ecf3f22c787bd1adcd2f91f,n02056570_776,500,375
+BigGAN/train/nature/n13133613_43185.JPEG,0,biggan,dev,train,59a6da49dd1c98a451928c59fe13340e726834eefc85fcacf0e2b93ffa4dea67,n13133613_43185,333,500
+BigGAN/train/nature/n04238763_6164.JPEG,0,biggan,dev,train,bea562fe4929123a3cf7b7123c3b70ff40a41125e97d1b7835d9d81e4b4b065c,n04238763_6164,1896,1304
+BigGAN/train/nature/n01734418_9695.JPEG,0,biggan,dev,train,65761c914dc74473b8211b1b571d6e13e3305872075799c13cd5b0f6ec7cb0b9,n01734418_9695,500,401
+BigGAN/train/nature/n02107683_2962.JPEG,0,biggan,dev,train,1c8bd9882adaa284fcb962a9cdf4b2bff2a14a51350154c43527bebf0d92634a,n02107683_2962,500,374
+BigGAN/train/nature/n02085620_1534.JPEG,0,biggan,dev,train,1aac0cbdb282dd6f8df1474f8170405d06729849ff80a14aa9ce145e86677e0a,n02085620_1534,375,500
+BigGAN/train/nature/n04542943_4652.JPEG,0,biggan,dev,train,cd0c55f534c553a0bf549bb71858358343b2517b1eb23f04985b25b4f77a4c82,n04542943_4652,500,375
+BigGAN/train/nature/n02443114_12396.JPEG,0,biggan,dev,train,1fd3a39ad515dfd3eda550a3ac01db300171f176a07232ba88905e8ab6a7d84a,n02443114_12396,400,265
+BigGAN/train/nature/n02077923_15224.JPEG,0,biggan,dev,train,dae4a762618f254f597f715279c8e9ede72bad8bceadab67f641a49c34f1b988,n02077923_15224,800,600
+BigGAN/train/nature/n02172182_12434.JPEG,0,biggan,dev,train,817e3ac5980d8d5042bb90dbd804857297230214a1f708d52c495604e88ceca8,n02172182_12434,500,334
+BigGAN/train/nature/n04613696_4178.JPEG,0,biggan,dev,train,c800e882f8d7407b1c278b8aa8a74b8403191b6b760da533a92f233e744c235e,n04613696_4178,500,375
+BigGAN/train/nature/n03216828_60935.JPEG,0,biggan,dev,train,e50b65632b1789c169b5aeb60e55ab10059454f06f94c0700ceba1bd7066b3ea,n03216828_60935,240,161
+BigGAN/train/nature/n01729322_16003.JPEG,0,biggan,dev,train,7021554fd3c06703f17b20c61714dcb6c180759053fd6e8f92d13299cc44c226,n01729322_16003,500,332
+BigGAN/train/nature/n01498041_22526.JPEG,0,biggan,dev,train,c991dc962187c46011713dab5272c494b9beccfeb1956077fb732d3a5aa52e25,n01498041_22526,500,430
+BigGAN/train/nature/n04507155_5200.JPEG,0,biggan,dev,train,494452b86ccca1a03e7c7332de0c66665342124e9b5adf3909598556316f92b5,n04507155_5200,333,500
+BigGAN/train/ai/236_biggan_00043.png,1,biggan,dev,train,7c821e6bc42680f45c79a871106316b72cf34ffb8700a703aeb3a74d135c7a71,,128,128
+BigGAN/train/ai/995_biggan_00028.png,1,biggan,dev,train,361489995bb149e2e2aeb63bb4e6918913db67491a87dd5ebdf888d1478a27f9,,128,128
+BigGAN/train/ai/237_biggan_00054.png,1,biggan,dev,train,240f5f5088919c6d3295c8c5d521de8c2dcd126215b4bbc47eedf8aa1b090645,,128,128
+BigGAN/train/ai/038_biggan_00115.png,1,biggan,dev,train,31cb213ed96b97d681a70cfb1dbf97849f2f05d7128c7ea3d5163a90551b5b68,,128,128
+BigGAN/train/ai/424_biggan_00004.png,1,biggan,dev,train,5a222328d3b4a2d2cb8acb3fcffcebcbaec495fa97d3f2aca7745cf206a179ee,,128,128
+BigGAN/train/ai/858_biggan_00077.png,1,biggan,dev,train,eb700c479ce599d5f78363dff98635823395dcdebbe2612a2bbf4fa6d1e6f36d,,128,128
+BigGAN/train/ai/529_biggan_00010.png,1,biggan,dev,train,81912761d180ecb7ebc70a6c5767a4a1136a6bea319a067d039ce3fe5c60dc79,,128,128
+BigGAN/train/ai/950_biggan_00068.png,1,biggan,dev,train,b0eac2eb5debd9b191617c1a0f1e668bf1d93f53596b5026edf9ff7fcfa6eed3,,128,128
+BigGAN/train/ai/584_biggan_00124.png,1,biggan,dev,train,40f05e6cfc0ffa4f430814bf1cce27cd37b82844e20331e6a5b50bda15ec7ae7,,128,128
+BigGAN/train/ai/908_biggan_00176.png,1,biggan,dev,train,9fe3ef8db68b087f019a2a89a522d9ccd9fbbf0614d015599ec0545647c37aae,,128,128
+BigGAN/train/ai/994_biggan_00128.png,1,biggan,dev,train,e9fa4cbcac94c2adee868a7012acc11cd68018465ff4462d923e14c072056872,,128,128
+BigGAN/train/ai/972_biggan_00106.png,1,biggan,dev,train,c536b4eb953324ac9a1f538c7d9618ae9d80023a65c9b9762904bcefbb32e07c,,128,128
+BigGAN/train/ai/960_biggan_00131.png,1,biggan,dev,train,c4df115749100553a7df361b3b5713b15933921cbe4526c099f1ed372decd0b8,,128,128
+BigGAN/train/ai/882_biggan_00037.png,1,biggan,dev,train,ec3e96daa0e33bc786f88c2985fe35a243f35315ca65ef8ac64f83322995c3be,,128,128
+BigGAN/train/ai/812_biggan_00165.png,1,biggan,dev,train,e3349eceb530d12123270f367c4b470c21b5218dad2db18e2594384ee5b3d54f,,128,128
+BigGAN/train/ai/941_biggan_00014.png,1,biggan,dev,train,5153c93dea4ad404c2634fdec1b3cad1e2d937f7925dd09514713c299c9d239c,,128,128
+BigGAN/train/ai/486_biggan_00030.png,1,biggan,dev,train,f50c1cdaa82a8d8a16a399aff4e1f10bbf4251b2795e1efb3201f4c8fdc3d591,,128,128
+BigGAN/train/ai/282_biggan_00040.png,1,biggan,dev,train,3daa050d81f8acbe04fdff3904e2cd09f2cf11d042ca5dc9dff38ef110d7ce8a,,128,128
+BigGAN/train/ai/949_biggan_00023.png,1,biggan,dev,train,bd127cc2efe8003dcdd0980c160706922cd229e14385ffd5b0316cdc5f52cbdb,,128,128
+BigGAN/train/ai/954_biggan_00111.png,1,biggan,dev,train,5854e5172c4bda78a0dc685be69f5572bec7a8472bd96226d327832bc1af6c32,,128,128
+BigGAN/train/ai/658_biggan_00196.png,1,biggan,dev,train,5b733f559340a636a770cf5c0f430a3c8d085ed8383497bdc980b36532fc9a24,,128,128
+BigGAN/train/ai/161_biggan_00140.png,1,biggan,dev,train,7a6701254483a40a9314a99e4f74f987bc60d8e507c46e274ad3f234a4b525b6,,128,128
+BigGAN/train/ai/052_biggan_00036.png,1,biggan,dev,train,1dc97fd07b8b01cbce6875d23e72294cd5c5a87d9eb5b6fcb928043fd662eb66,,128,128
+BigGAN/train/ai/291_biggan_00016.png,1,biggan,dev,train,dc1b39ca7fa468ae2ae5982f24eaab449efc0e556cc819d39906b728f78093fa,,128,128
+BigGAN/train/ai/269_biggan_00034.png,1,biggan,dev,train,6c366bf52d28b19884e11c3ea30c7feffa34bf74b7dd43412a41be76983c0738,,128,128
+BigGAN/train/ai/537_biggan_00057.png,1,biggan,dev,train,f3ee5b65be2d3926893ad505d457915ae0a378fcabc8d175d15131f2de7042b1,,128,128
+BigGAN/train/ai/897_biggan_00181.png,1,biggan,dev,train,8fc09a60d43715434f6eb9ec281c79004e745abf32315956c79740bae495c603,,128,128
+BigGAN/train/ai/212_biggan_00010.png,1,biggan,dev,train,db43f0a983845932166224a3aba5e5087ba6bb95e81b268cab5955abd3801ee1,,128,128
+BigGAN/train/ai/377_biggan_00066.png,1,biggan,dev,train,8e2e60c8d794f2cc7ca4c3b970f4939258a61ef8f64b1216d915760707548891,,128,128
+BigGAN/train/ai/730_biggan_00037.png,1,biggan,dev,train,6a06f8c8cff4c2437dc7da5dbb8c292a523ec389aa48c4dd1ce329c389346cd4,,128,128
+BigGAN/train/ai/153_biggan_00028.png,1,biggan,dev,train,99ca9c95833b18caad93273d40c7ba5b9423e8c5d568305c64a2f1a7f65e52f2,,128,128
+BigGAN/train/ai/678_biggan_00052.png,1,biggan,dev,train,f2a04595b2f05b50424c9975c435f23fff06c30fdf99641306fa7c3e4ffbecec,,128,128
