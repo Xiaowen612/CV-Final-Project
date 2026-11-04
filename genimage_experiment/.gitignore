@@ -1,0 +1,67 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+download_cache/
+*.log
+
+# Archives and model weights
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Images are shared separately; retain provenance metadata.
+/data/*
+!/data/GenImage/
+/data/GenImage/*
+!/data/GenImage/download_provenance.json
+
+# Ignore new runs; retain only selected historical results.
+/runs*/
+!/runs_pilot/
+/runs_pilot/*
+!/runs_pilot/report/
+!/runs_pilot/clip_linear/
+!/runs_pilot/effort/
+!/runs_pilot/effort_aug/
+!/runs_pilot/resnet50/
+!/runs_pilot/deit_small/
+!/runs_pilot/swin_tiny/
+!/runs_pilot/cnnspot/
+!/runs_pilot/effort_no_orth/
+!/runs_pilot/effort_no_energy/
+!/runs_pilot/effort_no_constraints/
+
+/runs_pilot/*/*
+!/runs_pilot/*/seed_*/
+/runs_pilot/*/seed_*/*
+!/runs_pilot/*/seed_*/run.json
+
+/runs_pilot/report/*
+!/runs_pilot/report/RESULTS.md
+!/runs_pilot/report/all_metrics.csv
+!/runs_pilot/report/clean_comparison.csv
+!/runs_pilot/report/summary_mean_std.csv
+!/runs_pilot/report/compute_cost.csv
+!/runs_pilot/report/robustness_seen.png
+!/runs_pilot/report/robustness_unseen.png
+!/runs_pilot/report/ablation_robustness_seen.png
+!/runs_pilot/report/ablation_robustness_unseen.png
+
+# Fixed manifests_pilot CSV/JSON files are intentionally tracked.
