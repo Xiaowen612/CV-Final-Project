@@ -1,8 +1,0 @@
-.venv/
-data/
-download_cache/
-runs*/
-manifests*/
-__pycache__/
-.pytest_cache/
-*.log
