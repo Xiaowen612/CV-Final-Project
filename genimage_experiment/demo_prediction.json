@@ -1,0 +1,9 @@
+{
+  "label": "AI-Generated",
+  "ai_probability": 0.7241824269294739,
+  "threshold": 0.4539577066898346,
+  "note": "Model score, not a calibrated probability or proof of image provenance.",
+  "source_path": "Stable Diffusion V1.4/val/nature/ILSVRC2012_val_00018009.JPEG",
+  "actual_label": 0,
+  "selection": "First manifest row; not cherry-picked"
+}

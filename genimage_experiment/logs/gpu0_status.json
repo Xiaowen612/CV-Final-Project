@@ -1,0 +1,14 @@
+{
+  "state": "complete",
+  "completed": [
+    "clip_linear/seed_42",
+    "clip_linear/seed_43",
+    "clip_linear/seed_44",
+    "effort/seed_42",
+    "effort/seed_43",
+    "effort/seed_44",
+    "effort_aug/seed_42",
+    "effort_aug/seed_43",
+    "effort_aug/seed_44"
+  ]
+}

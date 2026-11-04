@@ -1,0 +1,18 @@
+{
+  "config": "config_server_repeated.yaml",
+  "methods": [
+    "clip_linear",
+    "effort",
+    "effort_aug",
+    "resnet50",
+    "deit_small",
+    "swin_tiny",
+    "cnnspot"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "completed_unix_time": 1792046030.0065553
+}

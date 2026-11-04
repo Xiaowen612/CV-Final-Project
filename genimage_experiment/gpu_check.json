@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "Random inputs test GPU execution ONLY, not detection performance",
+  "torch": "2.9.0+cu128",
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "seconds": 8.158093293663114,
+  "loss": 0.7572759389877319,
+  "bce": 0.7572686076164246,
+  "penalty": 7.310454748221673e-06,
+  "trainable_parameters": 197729,
+  "peak_memory_mb": 1280.96875
+}

@@ -1,0 +1,107 @@
+{
+  "resnet50": {
+    "url": "https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-rsb-weights/resnet50_a1_0-14fe96d1.pth",
+    "hf_hub_id": "timm/resnet50.a1_in1k",
+    "architecture": "resnet50",
+    "tag": "a1_in1k",
+    "custom_load": false,
+    "input_size": [
+      3,
+      224,
+      224
+    ],
+    "test_input_size": [
+      3,
+      288,
+      288
+    ],
+    "fixed_input_size": false,
+    "interpolation": "bicubic",
+    "crop_pct": 0.95,
+    "test_crop_pct": 1.0,
+    "crop_mode": "center",
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_classes": 1000,
+    "pool_size": [
+      7,
+      7
+    ],
+    "first_conv": "conv1",
+    "classifier": "fc",
+    "origin_url": "https://github.com/huggingface/pytorch-image-models",
+    "paper_ids": "arXiv:2110.00476"
+  },
+  "deit_small_patch16_224": {
+    "url": "https://dl.fbaipublicfiles.com/deit/deit_small_patch16_224-cd65a155.pth",
+    "hf_hub_id": "timm/deit_small_patch16_224.fb_in1k",
+    "architecture": "deit_small_patch16_224",
+    "tag": "fb_in1k",
+    "custom_load": false,
+    "input_size": [
+      3,
+      224,
+      224
+    ],
+    "fixed_input_size": true,
+    "interpolation": "bicubic",
+    "crop_pct": 0.9,
+    "crop_mode": "center",
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_classes": 1000,
+    "pool_size": null,
+    "first_conv": "patch_embed.proj",
+    "classifier": "head"
+  },
+  "swin_tiny_patch4_window7_224": {
+    "url": "https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_tiny_patch4_window7_224.pth",
+    "hf_hub_id": "timm/swin_tiny_patch4_window7_224.ms_in1k",
+    "architecture": "swin_tiny_patch4_window7_224",
+    "tag": "ms_in1k",
+    "custom_load": false,
+    "input_size": [
+      3,
+      224,
+      224
+    ],
+    "fixed_input_size": true,
+    "interpolation": "bicubic",
+    "crop_pct": 0.9,
+    "crop_mode": "center",
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "num_classes": 1000,
+    "pool_size": [
+      7,
+      7
+    ],
+    "first_conv": "patch_embed.proj",
+    "classifier": "head.fc",
+    "license": "mit"
+  }
+}

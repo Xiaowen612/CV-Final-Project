@@ -1,0 +1,17 @@
+{
+  "state": "complete",
+  "completed": [
+    "resnet50/seed_42",
+    "resnet50/seed_43",
+    "resnet50/seed_44",
+    "deit_small/seed_42",
+    "deit_small/seed_43",
+    "deit_small/seed_44",
+    "swin_tiny/seed_42",
+    "swin_tiny/seed_43",
+    "swin_tiny/seed_44",
+    "cnnspot/seed_42",
+    "cnnspot/seed_43",
+    "cnnspot/seed_44"
+  ]
+}

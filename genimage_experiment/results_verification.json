@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "trained_models": 24,
+  "recomputed_metric_groups": 1680,
+  "prediction_rows": 122880,
+  "test_images": 512,
+  "shared_manifests": true,
+  "test_threshold_retuning": false
+}

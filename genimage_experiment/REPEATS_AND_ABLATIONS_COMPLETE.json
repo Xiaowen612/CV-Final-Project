@@ -1,0 +1,26 @@
+{
+  "methods": [
+    "clip_linear",
+    "effort",
+    "effort_aug",
+    "resnet50",
+    "deit_small",
+    "swin_tiny",
+    "cnnspot"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "ablations": [
+    "effort_no_orth",
+    "effort_no_energy",
+    "effort_no_constraints"
+  ],
+  "ablation_seeds": [
+    42
+  ],
+  "total_trained_models": 24,
+  "config": "config_server_repeated.yaml"
+}

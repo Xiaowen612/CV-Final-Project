@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "attention_projections_updated": 96,
+  "min_u_change_norm": 9.796648373594508e-05,
+  "max_u_change_norm": 0.00026386199169792235,
+  "mean_absolute_probability_difference": 0.000249082342634211,
+  "max_absolute_probability_difference": 0.0015026330947875977,
+  "interpretation": "Adapters changed, but this short rank-1 pilot produced very similar predictions to the frozen baseline."
+}

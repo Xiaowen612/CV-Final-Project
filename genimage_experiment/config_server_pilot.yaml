@@ -1,0 +1,58 @@
+data_root: data/GenImage
+manifest_dir: manifests_pilot
+run_dir: runs_pilot
+generators:
+  sd14: Stable Diffusion V1.4
+  biggan: BigGAN
+  adm: ADM
+  glide: GLIDE
+seen:
+- sd14
+- biggan
+unseen:
+- adm
+- glide
+split_seed: 2026
+train_per_class: 128
+dev_per_class: 32
+test_per_class: 64
+image_size: 224
+resize_short: 256
+clip_id: /home/smbu/.cache/huggingface/hub/models--openai--clip-vit-large-patch14/snapshots/8d052a0f05efbaefbc9e8786ba291cfdf93e5bff
+clip_revision: main
+residual_rank: 1
+lambda_orth: 1.0
+lambda_energy: 1.0
+epochs: 3
+batch_size: 8
+accumulation_steps: 4
+eval_batch_size: 16
+workers: 2
+lr: 0.0002
+head_lr: 0.001
+weight_decay: 0.0005
+patience: 3
+amp: true
+gradient_checkpointing: true
+device: cuda
+seeds:
+- 42
+methods:
+- clip_linear
+- effort
+- effort_aug
+- resnet50
+- deit_small
+- swin_tiny
+- cnnspot
+conditions:
+- clean
+- jpeg90
+- jpeg70
+- jpeg50
+- blur0.5
+- blur1
+- blur2
+- scale0.75
+- scale0.5
+- scale0.25
